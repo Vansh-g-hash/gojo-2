@@ -35,6 +35,9 @@ http://localhost:8080
 
 ## Controls
 
+![WhatsApp Image 2026-02-21 at 2 35 11 PM](https://github.com/user-attachments/assets/710cf9f8-4b8d-4d83-8301-5ca504817a0c)
+![WhatsApp Image 2026-02-21 at 2 35 45 PM](https://github.com/user-attachments/assets/82ead006-a97f-4ac3-8f34-1e839fda5d2f)
+
 Use hand gestures in front of the camera to activate
 techniques and fusion.
 
