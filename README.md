@@ -1,2 +1,43 @@
-# gojo-2
-Interactive web project visualizing Gojo’s Red, Blue, Hollow Purple and Domain Expansion using Three.js and hand tracking.
+# Gojo Hollow Purple – Cursed Technique Visualizer
+
+An interactive web project that visualizes Gojo Satoru’s
+Red, Blue, Hollow Purple and Domain Expansion using Three.js
+and real-time hand gesture detection.
+
+## Features
+
+- Red and Blue cursed technique visualization
+- Hollow Purple fusion animation
+- Domain Expansion (Unlimited Void) effect
+- Hand gesture based interaction
+- Particle and bloom based visual effects
+- Fully configurable parameters
+
+## Tech Stack
+
+- HTML / JavaScript
+- Three.js
+- Hand tracking
+
+## How to run locally
+
+1. Install dependencies
+
+npm install
+
+2. Start local server
+
+npx http-server .
+
+3. Open in browser
+
+http://localhost:8080
+
+## Controls
+
+Use hand gestures in front of the camera to activate
+techniques and fusion.
+
+## Author
+
+Vansh Gupta
